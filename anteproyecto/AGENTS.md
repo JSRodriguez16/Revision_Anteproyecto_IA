@@ -82,8 +82,7 @@ Señala el fragmento con [GRAMÁTICA].
 ### Lo que no debes hacer en este bloque
 
 - No marques como error las variantes aceptadas por la RAE.
-- No marques como error preferencias de estilo; eso corresponde a otros
-  bloques.
+- No marques como error preferencias de estilo; eso corresponde a otros bloques.
 - No escribas la oración corregida.
 
 ## Oraciones
